@@ -1,0 +1,105 @@
+.container{
+    margin-top: 72px;
+    width: 1560px;
+    height: 720px;
+    background: #FAFAFA;
+    display: flex;
+}
+.left{
+    top: 72px;
+    left: 100px;
+    width: 576px;
+    height: 576px;
+}
+#image{
+    margin-top: 72px;
+    margin-left: 100px;
+    width: 576px;
+    height: 576px;
+    box-shadow: 0px 4px 31px #0000000A;
+    border: 20px solid #FFFFFF;
+    opacity: 1;
+    border-radius: 50%;
+}
+.right{
+    padding-left: 220px;
+    padding-top: 106px;
+}
+#logo{
+    height: 58px;
+    margin-left: 50px;
+}
+.company{
+    padding-top: 80px;
+    margin-left: -110px;
+}
+#text{
+    margin-top: 10px;
+    margin-left: 120px;
+    font-size: 58px;
+}
+#text2{
+    font-size: 35px;
+    margin-top: 180px;
+    margin-left: -300px;
+}
+#text3{
+    font-size: 35px;
+    margin-top: -30px;
+    margin-left: -300px;
+}
+#experts{
+    color: #C8242F;
+}
+#text4{
+    font-size: 28px;
+    margin-top: 300px;
+    margin-left: -420px;
+    color: #706b6b;
+}
+.form{
+    font-size: 20px;
+    margin-top: 380px;
+    margin-left: -420px;
+    color: #706b6b;
+    width: 100px;
+    order: 1px solid #ADADAD;
+    border-radius: 5px;
+}
+#username{
+    width: 400px;
+}
+#password{
+    width: 400px;
+}
+.btn{
+    
+    background: #C8242F;
+    border-radius: 23px;
+    width: 138px;
+    height: 45px;
+}
+#forgot{
+
+    margin-left: 300px;
+    font: normal normal normal 15px Roboto;
+    color: #ADADAD;
+    margin-top: -30px;
+}
+.register{
+    margin-top: 600px;
+    display: flex;
+}
+#pera{
+    text-align: right;
+    margin-left: -600px;
+    color: #ADADAD;
+    padding-left: 510px;
+}
+#reg{
+    
+    color: #C8242F;
+}
+a:link{
+    text-decoration: none;
+}
