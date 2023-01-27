@@ -22,6 +22,7 @@
     width: 16px;
     height: 18px;
     position: absolute;
+    background-color: #FFFFFF;
 }
 #sea{
     top: 28px;
@@ -39,6 +40,7 @@
     width: 22px;
     height: 21px;
     position: absolute;
+    background-color: #FFFFFF;
 }
 #profile{
     top: 18px;
@@ -46,6 +48,7 @@
     width: 44px;
     height: 44px;
     position: absolute;
+    background-color: #FFFFFF;
 }
 #name{
     top: 28px;
@@ -61,27 +64,34 @@
     width: 20px;
     height: 80px;
     position: absolute;
+    background-color: #FFFFFF;
+}
+.first{
+    top: 105px;
+left: 30px;
+width: 183px;
+height: 43px;
+background: #FFF3F4 0% 0% no-repeat padding-box;
+border-radius: 5px;
+position: absolute;
 }
 #dashboard
 {
     top: 119px;
-left: 48px;
-width: 20px;
-height: 20px;
-position: absolute;
+    left: 48px;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    background: #FFF3F4;
 }
 #pera1{
-    top: 119px;
+    top: 115px;
     left: 80px;
     width: 78px;
     height: 21px;
-    text-align: left;
-    font: normal normal normal 16px/21px Roboto;
-    letter-spacing: 0px;
-    color: #3E3E3E;
-    opacity: 1;
     position: absolute;
     color: red;
+    background: #FFF3F4;
 }
 #graph{
     top: 171px;
@@ -119,4 +129,386 @@ letter-spacing: 0px;
 color: #3E3E3E;
 opacity: 1;
 position: absolute;
+}
+#clock{
+    top: 270px;
+    left: 47px;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+}
+#history{
+    top: 269px;
+    left: 80px;
+    width: 51px;
+    height: 21px;
+    color: #3E3E3E;
+    font: normal normal normal 16px/21px Roboto;
+    position: absolute;
+}
+#user{
+    top: 320px;
+    left: 51px;
+    width: 15px;
+    height: 15px;
+    position: absolute;
+}
+#pera4{
+    top: 316px;
+    left: 78px;
+    width: 41px;
+    height: 21px;
+    font: normal normal normal 16px/21px Roboto;
+    color: #3E3E3E;
+    position: absolute;
+}
+#maintenance{
+    top: 367px;
+    left: 50px;
+    width: 18px;
+    height: 18px;
+    position: absolute;
+}
+#pera5{
+    top: 365px;
+    left: 75px;
+    width: 92px;
+    height: 21px;
+    font: normal normal normal 16px/21px Roboto;
+    color: #3E3E3E;
+    position: absolute;
+}
+#setting{
+    top: 415px;
+    left: 49px;
+    width: 17px;
+    height: 17px;
+    position: absolute;
+}
+#pera6{
+    top: 412px;
+    left: 75px;
+    width: 50px;
+    height: 21px;
+    font: normal normal normal 16px/21px Roboto;
+    color: #3E3E3E; 
+    position: absolute;
+}
+.containt{
+    background-color: #FAFAFA;
+    position: absolute;
+    width: 1330px;
+    height: 1400px;
+    margin-top: 100px;
+    display: flex;
+    margin-left: -50px;
+}
+#bord{
+    top: 35px;
+    left: 50px;
+    width: 146px;
+    height: 39px;
+    color: #000000;
+    position: absolute;
+
+}
+.product{
+    top: 110px;
+    left: 55px;
+    width: 219px;
+    height: 116px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 5px;
+    position: absolute;
+}
+.product1{
+    top: 110px;
+    left: 305px;
+    width: 219px;
+    height: 116px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 5px;
+    position: absolute;
+}
+.product2{
+    top: 110px;
+    left: 555px;
+    width: 219px;
+    height: 116px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 5px;
+    position: absolute;
+}
+.product3{
+    top: 110px;
+    left: 805px;
+    width: 219px;
+    height: 116px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 5px;
+    position: absolute;
+}
+.product4{
+    top: 110px;
+    left: 1055px;
+    width: 219px;
+    height: 116px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 5px;
+    position: absolute;
+}
+.plogos{
+    top: 35px;
+    left: 42px;
+    width: 40px;
+    height: 45px;
+    position: absolute;
+    
+}
+.num1{
+    top: 30px;
+    left: 95px;
+    width: 33px;
+    height: 33px;
+    color: #3E3E3E;
+    position: absolute;
+}
+.p1{
+    top: 55px;
+    left: 95px;
+    width: 25px;
+    height: 25px;
+    color: #3E3E3E;
+    position: absolute;
+}
+#graph2{
+    top: 345px;
+    left: 50px;
+    width: 802px;
+    height: 335px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    position: absolute;
+}
+.main2{
+    top: 260px;
+    left: 50px;
+    width: 802px;
+    height: 400px;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    position: absolute;
+}
+#sale{
+    color: #3E3E3E;
+    margin-left: 29px;
+    margin-top: 24PX;
+}
+#week{
+    color: #ADADAD;
+    margin-left: 580px;
+    margin-top: -30px;
+    font-size: 12px;
+}
+#yearly{
+    margin-left: 700px;
+    position: absolute;
+    font-size: 12px;
+    color: #C8242F;
+    margin-top: -34px;
+}
+.main3{
+    top: 260px;
+left: 880px;
+width: 390px;
+height: 420px;
+position: absolute;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border-radius: 5px;
+}
+#country{
+    margin-top: 25px;
+    margin-left: 20px;
+    color: #3E3E3E;
+}
+#pie{
+    margin-top: 5px;
+    margin-left: 78px;
+}
+#radio1{
+    margin-left: 10px;
+    width: 40px;
+    height: 40px;
+}
+#usa{
+   margin-left: 45px;
+   margin-top: -28px;
+    width: 166px;
+    height: 20px;
+    color: #3E3E3E;
+    font-size: 13px;
+}
+.orange{
+    margin-top: 25px;
+    margin-left: 21px;
+    width: 17px;
+    height: 17px;
+    border-radius: 50%;
+    background: #F16C20 0% 0% no-repeat padding-box;
+}
+#russia{
+    margin-left: 22px;
+     color: #3E3E3E;
+     font-size: 13px;
+     margin-top: 00px;
+}
+.green{
+   margin-left: 210px;
+   margin-top: -60px;
+    width: 17px;
+    height: 17px;
+    border-radius: 50%;
+    background: #A2B86C 0% 0% no-repeat padding-box;
+}
+#canada{
+    color: #3E3E3E;
+     font-size: 13px;
+     margin-left: 25px;
+}
+.yellow{
+    margin-left: 210px;
+    margin-top: 30px;
+    width: 17px;
+    height: 17px;
+    border-radius: 50%;
+    background: #EBC844 0% 0% no-repeat padding-box;
+}
+#india{
+    color: #3E3E3E;
+     font-size: 13px;
+     margin-left: 25px;
+}
+.main4{
+    top: 710px;
+    left: 50px;
+    width: 1217px;
+    height: 558px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    position: absolute;
+}
+#invoices{
+    margin-top: 25px;
+    margin-left: 25px;
+    color: #3E3E3E;
+}
+#view{
+    color: #C8242F;
+    margin-top: -30px;
+    font-size: 13px;
+    margin-left: 1130px;
+}
+.table{
+    margin: 10px;
+    width: 100%;
+    
+}
+.table th{
+    color: #ADADAD;
+}
+.table td{
+    color: #3E3E3E;
+}
+.bggreen{
+ margin-left: 995px;
+ margin-top: 50px;
+width: 50px;
+height: 26px;
+position: absolute;
+background: #EBFFEF 0% 0% no-repeat padding-box;
+border-radius: 5px;
+}
+.bggreen1{
+    margin-left: 995px;
+    margin-top: 90px;
+   width: 50px;
+   height: 26px;
+   position: absolute;
+   background: #EBFFEF 0% 0% no-repeat padding-box;
+   border-radius: 5px;
+}
+.bggreen2{
+    margin-left: 995px;
+    margin-top: 130px;
+   width: 50px;
+   height: 26px;
+   position: absolute;
+   background: #EBFFEF 0% 0% no-repeat padding-box;
+   border-radius: 5px;
+}
+.bggreen3{
+    margin-left: 995px;
+    margin-top: 170px;
+   width: 50px;
+   height: 26px;
+   position: absolute;
+   background: #EBFFEF 0% 0% no-repeat padding-box;
+   border-radius: 5px;
+}
+.bggreen4{
+    margin-left: 995px;
+    margin-top: 295px;
+   width: 50px;
+   height: 26px;
+   position: absolute;
+   background: #EBFFEF 0% 0% no-repeat padding-box;
+   border-radius: 5px;
+}
+.bggreen5{
+    margin-left: 995px;
+    margin-top: 378px;
+   width: 50px;
+   height: 26px;
+   position: absolute;
+   background: #EBFFEF 0% 0% no-repeat padding-box;
+   border-radius: 5px;
+}
+#paid{
+ color: #3CDD5F;
+ text-align: center;
+}
+.bgred{
+    margin-left: 995px;
+    margin-top: 210px;
+   width: 50px;
+   height: 26px;
+   position: absolute;
+   background: #FFF5F5 0% 0% no-repeat padding-box;
+   border-radius: 5px;
+}
+.bgred1{
+    margin-left: 995px;
+    margin-top: 335px;
+   width: 50px;
+   height: 26px;
+   position: absolute;
+   background: #FFF5F5 0% 0% no-repeat padding-box;
+   border-radius: 5px;
+}
+#failed{
+    color: #FF4545;
+    text-align: center;
+}
+.bgpending{
+    margin-left: 995px;
+    margin-top: 250px;
+   width: 50px;
+   height: 26px;
+   position: absolute;
+   background: #F8F8F8 0% 0% no-repeat padding-box;
+   border-radius: 5px;
+}
+#pending{
+    color: #BABABA;
+    text-align: center;
 }
